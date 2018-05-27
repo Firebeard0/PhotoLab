@@ -278,6 +278,7 @@ public class Picture extends SimplePicture
     beach.explore();
     beach.mirror();
     beach.explore();
+    beach.write("NoahUffensClassFilter.jpg");
   }
   
 } // this } is the end of class Picture, put all new methods before this
